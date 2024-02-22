@@ -1,4 +1,4 @@
-Remarkably Github seems to render out Juypter Notebook ipynb files quite nicely! 
+Remarkably Github seems to render out Jupyter Notebook ipynb files quite nicely! 
 
 https://github.com/blakefrederick/jupyter/blob/main/first.ipynb
 
